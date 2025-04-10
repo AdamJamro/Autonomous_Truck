@@ -1,5 +1,5 @@
 
-### This project provides code for Arduino UNO microcontroller that steers an Track.
+### This project provides code for Arduino UNO microcontroller that steers a Truck.
 
 
 ## Components:
