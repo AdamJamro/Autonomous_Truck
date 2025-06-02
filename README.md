@@ -1,5 +1,5 @@
 
-### This project provides code for Arduino UNO microcontroller that steers a Truck autonomously.
+### This project provides code for Arduino UNO microcontroller that autonomously steers a little DIY Truck.
 
 
 ## Components:
