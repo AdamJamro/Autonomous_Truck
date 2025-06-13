@@ -1,5 +1,5 @@
 
-### This project provides code for Arduino UNO microcontroller that steers a Truck.
+### This project provides code for Arduino UNO microcontroller that autonomously steers a little DIY Truck.
 
 
 ## Components:
@@ -14,4 +14,4 @@
 - exemplary main.ino contains simple loop with serial communication that enables steering the truct
 - Wheels class enables control of the movement
 - Wheels adapts LCD dashboard and movement animations
-- wip: interrupts and more robust way of measuring trucs speed
+- wip: interrupts and more robust way of measuring truck's speed
